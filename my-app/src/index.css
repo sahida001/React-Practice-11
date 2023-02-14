@@ -1,0 +1,21 @@
+body {
+background-color: rgb(108, 4, 4);
+ 
+}
+h1{
+  color: white;
+  margin:10px;
+}
+h2{
+  color: aqua;
+}
+
+button{
+  background-color: black;
+  color: white;
+  padding: 10px 30px;
+  margin: 0 10px;
+  font-size: 20px;
+ 
+}
+
